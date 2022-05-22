@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chameerapre
+- 👋 Hi, I’m Chameera (@chameerapre)
 - 👀 I help businesses to grow through their web presence
 - 🌱 Founded @OrigynSystems to pursue my entrepreneurial journey.
 - 💞️ I’m looking for businesses that need exceptional quality websites.
