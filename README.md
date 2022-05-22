@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chameerapre
-- 👀 I’m interested in building things on the internet.
-- 🌱 I’m currently learning Entrepreneurship.
-- 💞️ I’m looking to collaborate on world changing business ideas.
+- 👀 I help businesses to grow through their web presence
+- 🌱 Founded @OrigynSystems to pursue my entrepreneurial journey.
+- 💞️ I’m looking for businesses that need exceptional quality websites.
 - 📫 Reach me at chameera@theorigyn.com.
 
 <!---
