@@ -2,7 +2,7 @@
 - 👀 I help businesses to grow through their web presence
 - 🌱 Founded @OrigynSystems to pursue my entrepreneurial journey.
 - 💞️ I’m looking for businesses that need exceptional quality websites.
-- 📫 Reach me at chameera@theorigyn.com.
+- 📫 Reach me at chameera@origynsystems.com.
 
 <!---
 chameerapre/chameerapre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
