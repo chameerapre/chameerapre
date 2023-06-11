@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chameera (@chameerapre)
-- 👀 I help businesses to grow through their web presence
-- 🌱 Founded @OrigynSystems to pursue my entrepreneurial journey.
-- 💞️ I’m looking for businesses that need exceptional quality websites.
-- 📫 Reach me at chameera@origynsystems.com.
+- 👀 I build $1M ARR portfolio of micro SaaS products.
+- 🌱 Founded @Origyn to pursue my entrepreneurial journey.
+- 💞️ I’m looking for businesses that need B2B software solutions.
+- 📫 Reach me at chameera@origyn.company.
 
 <!---
 chameerapre/chameerapre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
