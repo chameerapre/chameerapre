@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chameera (@chameerapre)
-- 👀 I build $1M ARR portfolio of micro SaaS products.
+- 👀 I'm building $1M ARR portfolio of micro SaaS products.
 - 🌱 Founded @OrigynCompany to pursue my entrepreneurial journey.
 - 💞️ I’m looking for businesses that need B2B software solutions.
 - 📫 Reach me at chameera@origyn.company.
